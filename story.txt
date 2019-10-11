@@ -1,5 +1,1 @@
-Once there was a student Jack majored in the computer science. His friends told him that he needs to take CS400 and he followed the suggestion. All the things seemed usual until one day he was introduced to the Pandora box named GitHub. His life was then changed.
-
-Jack couldn't get over the vast posibilities wiht GitHub. Each day he would delve deeper and deeper into what he could do with this amazing box. He would open it and streams of light would bound out and illuminate the room. But then... One day Jack opened teh box and reached deep inside. He lost his footing and fell in.
-
-Jack then woke up from the strange dream he was having after falling asleep at his computer doing a CS400 project. He stared at his GitHub repository and saw that he had accidentally committed the wrong version of one of the files he was working on. He really needed to start doing his homework before midnight. Being this tired wasn't very conducive to getting work done...
+Jack ended up failing cs400 as everytime he tried to code he would fall asleep. Years later he was diagnosed with a rare condition known as Java-itis. This condition is only found in cs400 students.
