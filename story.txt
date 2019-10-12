@@ -5,3 +5,5 @@ Jack couldn't get over the vast posibilities wiht GitHub. Each day he would delv
 Jack then woke up from the strange dream he was having after falling asleep at his computer doing a CS400 project. He stared at his GitHub repository and saw that he had accidentally committed the wrong version of one of the files he was working on. He really needed to start doing his homework before midnight. Being this tired wasn't very conducive to getting work done...
 
 Jack ended up failing cs400 as everytime he tried to code he would fall asleep. Years later he was diagnosed with a rare condition known as Java-itis. This condition is only found in cs400 students.
+
+Years later a famous doctor finally found a cure to Java-itis - take cs400 in C++. This cured the most Java-itis patients, although they were later diagnosed with C++-itis. What could save these students?
